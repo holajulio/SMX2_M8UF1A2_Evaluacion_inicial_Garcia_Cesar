@@ -1,0 +1,2 @@
+# SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar
+primera activiadd
