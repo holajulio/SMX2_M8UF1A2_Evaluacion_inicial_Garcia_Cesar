@@ -2,7 +2,7 @@
 
 1. ¿Qué es una página web?
 
-    <B><FONT COLOR="red">Conjunto de información que se encuentra en una dirección determinada de internet.</font><br>
+    <span style= "color: red;">Conjunto de información que se encuentra en una dirección determinada de internet.</span>
 
 2. ¿Qué es un sitio web?
 
