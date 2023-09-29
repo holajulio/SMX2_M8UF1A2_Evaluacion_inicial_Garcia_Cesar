@@ -6,15 +6,15 @@
 
 2. ¿Qué es un sitio web?
 
-    Un sitio web​, portal​ o cibersitio es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.
+    <span style= "color: red;">Un sitio web​, portal​ o cibersitio es una colección de páginas web relacionadas y comunes a un dominio de internet o subdominio en la World Wide Web dentro de Internet.</span>
 
 3. ¿Qué es una aplicación web?
 
-    En la ingeniería de software se denomina aplicación web o software web a aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.
+    <span style= "color: red;">En la ingeniería de software se denomina aplicación web o software web a aquella herramienta que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.</span>
 
 4. ¿Qué es una herramienta ofimática?
 
-    son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
+    <span style= "color: red;">son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.</span>
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
@@ -29,7 +29,7 @@
 
 6. ¿Gué es HTML?
 
-    Es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.
+    <span style= "color: red;">Es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.</span>
 
 ```
 
@@ -49,7 +49,7 @@
 
 7. ¿Qué es CSS?
 
-    CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.​
+    <span style= "color: red;">CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.​</span>
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
