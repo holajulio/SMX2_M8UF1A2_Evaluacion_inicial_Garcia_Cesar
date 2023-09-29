@@ -1,3 +1,6 @@
+# SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar
+primera activiadd
+
 # Evaluacion Inicial
 
 1. ¿Qué es una página web?
