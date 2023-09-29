@@ -20,7 +20,7 @@
 
 |Aplicaiones | visto|
 |----------|:-------:|
-|Google Docs|[imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
+|Google Docs|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
 |Google Slides|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
 |Google Sheets|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
 |Google Calendar|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/calendar.png)|
