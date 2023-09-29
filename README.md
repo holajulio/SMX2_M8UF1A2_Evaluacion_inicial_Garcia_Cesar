@@ -53,4 +53,5 @@
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/Captura%20de%20pantalla%202023-09-29%20155456.png)
+     ![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/Captura%20de%20pantalla%202023-09-29%20155456.png)
+
