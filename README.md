@@ -31,7 +31,7 @@
 
     <span style= "color: red;">Es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.</span>
 
-    ```
+    ```HTML
 
         <!DOCTYPE html>
         <html lang="en">
@@ -44,7 +44,7 @@
 
         </body>
         </html>
-    
+
     ```
 
 7. ¿Qué es CSS?
