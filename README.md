@@ -18,34 +18,34 @@
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
-|Aplicaiones | visto|
-|----------|:-------:|
-|Google Docs|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
-|Google Slides|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
-|Google Sheets|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
-|Google Calendar|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/calendar.png)|
-|Google Meet|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/portatil.png)|
-|...|...|
+    |Aplicaiones | visto|
+    |----------|:-------:|
+    |Google Docs|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
+    |Google Slides|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
+    |Google Sheets|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/chek.png)|
+    |Google Calendar|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/calendar.png)|
+    |Google Meet|![imagen](https://github.com/holajulio/SMX2_M8UF1A2_Evaluacion_inicial_Garcia_Cesar/blob/main/portatil.png)|
+    |...|...|
 
 6. ¿Gué es HTML?
 
     <span style= "color: red;">Es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.</span>
 
-```
+    ```
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Document</title>
-    </head>
-    <body>
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <title>Document</title>
+        </head>
+        <body>
 
-    </body>
-    </html>
-
-```
+        </body>
+        </html>
+    
+    ```
 
 7. ¿Qué es CSS?
 
